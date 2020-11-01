@@ -7,6 +7,7 @@ V. Isualize has requested a brand-new analysis. Create a summary DataFrame of th
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
+![](Resources/Fig 1. PyBer Analysis.PNG)
 
 
 ##Summary:
