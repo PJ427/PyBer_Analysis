@@ -15,7 +15,7 @@ As shown in the figure above the ride-sharing data includes: total rides, total 
 
 In the first four-months of 2019, the graph above shows that the urban areas had the highest fares followed by suburban and rural areas.  This could signify a couple of things: 
 
-  o Urbanites travel more, generating decreased ride fares
-  o Distance traveled could contribut to the Driver Fare being higher for suburban and rural areas
-  o Population density of the areas are a significant factor
+    o Urbanites travel more, generating decreased ride fares
+    o Distance traveled could contribut to the Driver Fare being higher for suburban and rural areas
+    o Population density of the areas are a significant factor
 
