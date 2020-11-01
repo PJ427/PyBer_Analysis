@@ -5,10 +5,9 @@ V. Isualize has requested a brand-new analysis. Create a summary DataFrame of th
 
 ## Results:
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
 ![](Resources/Fig 1. PyBer Analysis.PNG)
 
+As shown in the figure above the ride-sharing data includes: total rides, total drivers, total fares, average fare by ride and average fare per driver by city type.  While Urban types generate more rides and fares the data shows that the cost is higher as we move away from urban areas.  This is attributed to the the decrease in population and the distance one has to travel out.
 
 ##Summary:
 
