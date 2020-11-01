@@ -3,7 +3,7 @@
 V. Isualize has requested a brand-new analysis. Create a summary DataFrame of the ride-sharing data by city type. Then, create a multiple-line graph that shows the total weekly fares for each city type. Finally, submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 
-## Results:
+## Results: 
 
 ![](analysis/Fig 1. PyBer Analysis.PNG)
 
