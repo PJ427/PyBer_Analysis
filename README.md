@@ -7,7 +7,7 @@ V. Isualize has requested a brand-new analysis. Create a summary DataFrame of th
 
 https://github.com/PJ427/PyBer_Analysis/blob/main/Resources/PyBer_%20data.PNG
 
-As shown in the figure above the ride-sharing data includes: total rides, total drivers, total fares, average fare by ride and average fare per driver by city type.  While Urban types generate more rides and fares the data shows that the cost is higher as we move away from urban areas.  This is attributed to the the decrease in population and the distance one has to travel out in addition to the demand appears to be lower in suburban and rural areas.
+As shown in the figure at the link above, the ride-sharing data includes: total rides, total drivers, total fares, average fare by ride and average fare per driver by city type.  While Urban types generate more rides and fares the data shows that the cost is higher as we move away from urban areas.  This is attributed to the the decrease in population and the distance one has to travel out in addition to the demand appears to be lower in suburban and rural areas.
 
 ## Summary:
 
